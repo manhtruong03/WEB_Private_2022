@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block {
+    height: 30px;
+    width: 30px;
+    background-color: orange;
+}
+
+.letter-h {
+    display: flex;
+}
+
+.h-mid {
+    display: flex;
+    align-items: center;
+}
+
+.space-block {
+    height: 15px;
+    width: 15px;
+}
+
+.letter-t {
+    display: flex;
+}
+
+.number-three {
+    display: flex;
+}
+
+.three-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
