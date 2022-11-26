@@ -101,6 +101,7 @@ p {
 }
 
 .page-about {
+    width: 100%;;
     height: 60vh;
     background-color: #F4623A;
     color: white;
